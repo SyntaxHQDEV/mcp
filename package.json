@@ -36,5 +36,9 @@
     "shx": "^0.3.4",
     "tsup": "^8.4.0",
     "typescript": "^5.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/browsermcp/mcp.git"
   }
 }
